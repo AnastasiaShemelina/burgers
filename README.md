@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/burgers.git
+   git clone [https://github.com/yourusername/burgers.git](https://github.com/AnastasiaShemelina/burgers.git)
 
 2. Перейдите в папку с проектом:
    ```bash
